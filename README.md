@@ -18,7 +18,7 @@ Expense Tracker is a simple web application built with ReactJS to help you track
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/AmaanRaza28/ExpenseTracker
+   git clone https://github.com/Apurva-Amai/ET.git
    cd expense-tracker
    ```
 2. Install dependencies:
