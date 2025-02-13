@@ -5,9 +5,11 @@ Expense Tracker is a simple web application built with ReactJS to help you track
 ## Features
 
 - **Expense Logging:**
+
   - Add and categorize your expenses easily.
 
 - **Expense List:**
+
   - View a list of all your recorded expenses.
 
 - **Data Persistence:**
@@ -18,9 +20,10 @@ Expense Tracker is a simple web application built with ReactJS to help you track
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Apurva-Amai/ET.git
+   git clone https://github.com/Apurva-Amai/ExpenseTracker.git
    cd expense-tracker
    ```
+
 2. Install dependencies:
    ```bash
    npm install
